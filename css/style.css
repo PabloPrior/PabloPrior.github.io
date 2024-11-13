@@ -8920,6 +8920,30 @@ h1, h2, h3, h4, h5,
     font-weight: 400;
     color: #fff; }
 
+    .barra1 {
+      background-color: #00599C; /* C++ - Azul */
+    }
+    
+    .barra2 {
+      background-color: #6600A1; /* C# - Verde oscuro */
+    }
+    
+    .barra3 {
+      background-color: #0D6217; /* Python - Azul */
+    }
+    
+    .barra4 {
+      background-color: #E34F26; /* HTML - Rojo-anaranjado */
+    }
+    
+    .barra5 {
+      background-color: #FE0000; /* Java - Azul oscuro */
+    }
+    
+    .barra6 {
+      background-color: #F7DF1E; /* JavaScript - Amarillo */
+    }
+
 .ftco-hireme {
   background: #ffbd39;
   z-index: -1; }
