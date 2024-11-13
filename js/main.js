@@ -85,8 +85,8 @@
 
 	var carousel = function() {
 		$('.home-slider').owlCarousel({
-	    loop:true,
-	    autoplay: true,
+	    loop:false, //si quieres el loop guay a true
+	    autoplay: false,  //si quieres el loop guay a true
 	    margin:0,
 	    animateOut: 'fadeOut',
 	    animateIn: 'fadeIn',
