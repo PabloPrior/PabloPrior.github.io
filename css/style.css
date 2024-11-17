@@ -9621,6 +9621,15 @@ textarea.form-control {
       color: #000000;
       font-style: italic; }
 
+/* #about-section {
+  display: flex;
+  justify-content: center; 
+  align-items: center;   
+  text-align: center;     
+  min-height: 100vh;     
+  padding: 20px;          
+} */
+
 #ftco-loader {
   position: fixed;
   width: 96px;
